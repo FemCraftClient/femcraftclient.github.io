@@ -1,1 +1,6 @@
-# femcraftclient.github.io
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://femcraftclient.github.io/index.html">
+</head>
+</html>
